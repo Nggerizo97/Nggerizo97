@@ -1,16 +1,56 @@
 # Hola, soy Nicolas 👋
-**Ingeniero Mecatrónico | Data, Analytics & MLOps**
 
-Soy un profesional enfocado en el diseño y despliegue de soluciones basadas en datos. Me especializo en automatizar procesos, construir pipelines escalables y llevar modelos de Machine Learning a producción de manera eficiente.
+**Ingeniero Mecatrónico | Data, Analytics, MLOps & Backend**
 
-### 🛠️ Tech Stack & Herramientas
-* **Lenguajes:** Python, SQL
-* **Cloud & Data:** AWS (Lambda, S3), Databricks, Big Data
-* **DevOps & Arquitectura:** MLOps, RPA, Backend
+---
+
+### 💼 Experiencia
+
+| Empresa | Rol |
+|---|---|
+| **Scotiabank** *(current)* | Data / Analytics Engineer |
+| **Bancolombia** | Data Engineer |
+| **ISA Interconexión Eléctrica** | Analytics / Automation |
+| **Michael Page** | Tech Recruitment |
+
+---
+
+### 🛠️ Tech Stack
+
+**Lenguajes & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & Plataformas de Datos**
+
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big_Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**MLOps, Automatización & Backend**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-01D277?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-764ABC?style=for-the-badge&logo=mlflow&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-0052CC?style=for-the-badge&logo=uipath&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
 
 ### 🚀 Proyectos Destacados
-* **PeraBank:** Arquitectura serverless de procesamiento de datos automatizado integrando AWS Lambda, S3 y Python para ingesta y transformación continua.
-* **Análisis Inmobiliario MLOps:** Pipeline de extracción de datos (web scraping) y procesamiento a gran escala utilizando Databricks, integrando flujos de trabajo de Machine Learning.
 
-### 📈 Estadísticas de GitHub
-[![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/TU_USUARIO)
+#### [PeraBank](https://github.com/Nggerizo97/PeraBank)
+Pipeline de datos y modelo de Machine Learning sobre arquitectura serverless utilizando **AWS Lambda**, **S3** y **Python**. Diseñado para ingesta, transformación y scoring continuo sin gestión de infraestructura.
+
+#### [Plataforma de Datos Inmobiliarios](https://github.com/Nggerizo97/real-estate-data-platform)
+Pipeline robusto de web scraping y procesamiento de datos a gran escala orquestado con **Databricks**, aplicando prácticas de **MLOps**: versionado de modelos, monitoreo de drift y despliegue automatizado.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nggerizo97&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nggerizo97&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
