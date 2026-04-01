@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Nicolas 👋
+**Ingeniero Mecatrónico | Data, Analytics & MLOps**
 
-<!--
-**Nggerizo97/Nggerizo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional enfocado en el diseño y despliegue de soluciones basadas en datos. Me especializo en automatizar procesos, construir pipelines escalables y llevar modelos de Machine Learning a producción de manera eficiente.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Herramientas
+* **Lenguajes:** Python, SQL
+* **Cloud & Data:** AWS (Lambda, S3), Databricks, Big Data
+* **DevOps & Arquitectura:** MLOps, RPA, Backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+* **PeraBank:** Arquitectura serverless de procesamiento de datos automatizado integrando AWS Lambda, S3 y Python para ingesta y transformación continua.
+* **Análisis Inmobiliario MLOps:** Pipeline de extracción de datos (web scraping) y procesamiento a gran escala utilizando Databricks, integrando flujos de trabajo de Machine Learning.
+
+### 📈 Estadísticas de GitHub
+[![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/TU_USUARIO)
