@@ -8,10 +8,9 @@
 
 | Empresa | Rol |
 |---|---|
-| **Scotiabank** *(current)* | Data / Analytics Engineer |
-| **Bancolombia** | Data Engineer |
-| **ISA Interconexión Eléctrica** | Analytics / Automation |
-| **Michael Page** | Tech Recruitment |
+| **Scotiabank** *(current)* | Data / Analytics Engineer / Fullstack Software Engineer |
+| **Bancolombia** | Business And Software Engineer Cloud |
+| **ISA Interconexión Eléctrica** | AI / Automation / Cloud |
 
 ---
 
