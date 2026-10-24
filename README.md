@@ -1,6 +1,6 @@
 # Hi, I'm Nicolás Guarín Gaviria
 
-**Cloud & Data Engineer · DevOps & Backend** · Medellín, Colombia
+**Software & Cloud Data Engineer · DevOps & Backend** · Medellín, Colombia
 
 I build the systems that take data from a raw source to a decision someone can act on: pipelines, APIs, ML models, and the cloud infrastructure and CI/CD that keep them running. I have 4+ years of experience in banking and energy, and I trained as a mechatronics engineer with a focus on robotics and computer vision.
 
