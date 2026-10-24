@@ -16,7 +16,7 @@ I build the systems that take data from a raw source to a decision someone can a
 
 | Company | Role | What I worked on |
 |---|---|---|
-| **Scotiabank** *(Apr 2025 – present)* | Full-Stack Software Engineer | On-prem → Google Cloud migration, Entra ID authentication, scope-based JWTs between Spring Boot APIs, Azure Databricks ETL (−30% processing time), AI-assisted dev tooling |
+| **Scotiabank** *(Apr 2025 – present)* | Full-Stack Software Engineer | On-prem → Google Cloud migration, Entra ID authentication, scope-based JWTs between Spring Boot APIs, AI-assisted dev tooling (sprint cycle from 7 to 2–4 days) |
 | **ISA Interconexión Eléctrica** *(2025)* | Supply Data Analyst (contract) | Sole data engineer: Azure Databricks pipelines over 100+ sources, Azure ML models, CI/CD in Azure DevOps, RPA |
 | **Bancolombia** *(2022 – 2024)* | Software Engineer & AI Support | Chatbot microservices on AWS reaching 1M+ customers/month, Azure DevOps CI/CD (deploys from 48 h to 2 h), Serenity + Playwright test automation |
 | **Bancolombia** *(2021 – 2022)* | Business Analyst Intern | Impala/SAS data automation (−70% reporting errors), Power BI forecasting tool for VPs |
